@@ -110,7 +110,7 @@ Before running the command we will run *netcat* listener on port **1234** like t
 ```
 nc -lvnp 1234
 ```
-##PoC
+## PoC
 After running the exploit we will get the *reverse shell* as **root**
 
 ![Minion](https://github.com/pepax3/pepax3.github.io/blob/main/content/posts/HackTheBox%20-%20Lame/PoC.png?raw=true)
