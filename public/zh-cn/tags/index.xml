@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - pepax3 infosec blogz</title>
+        <link>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/</link>
+        <description>Tags - 标签 - pepax3 infosec blogz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://pepax3.github.io/pepax3.github.io/zh-cn/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>安装</title>
+    <link>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/installation/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/installation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>内容</title>
+    <link>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/content/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/content/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/configuration/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://pepax3.github.io/pepax3.github.io/zh-cn/tags/configuration/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
