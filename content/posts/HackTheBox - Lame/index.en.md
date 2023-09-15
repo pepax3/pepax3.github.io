@@ -2,7 +2,6 @@
 title = 'HackTheBox - Lame'
 date = 2023-09-15T17:03:12+02:00
 draft = false
-tags = 'htb-easy' 'tj_null'
 +++
 
 **Lame** is a beginner level machine, requiring only one exploit to obtain root access. It was the first machine published on Hack The Box and was often the first machine for new users prior to its retirement.
