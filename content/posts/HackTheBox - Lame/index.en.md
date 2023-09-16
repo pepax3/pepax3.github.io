@@ -114,8 +114,3 @@ nc -lvnp 1234
 After running the exploit we will get the *reverse shell* as **root**
 
 ![Minion](https://github.com/pepax3/pepax3.github.io/blob/main/content/posts/HackTheBox%20-%20Lame/PoC.png?raw=true)
-
-``` py
- print("This line will be printed.")
-```
-
